@@ -7,8 +7,7 @@
 
 
 [![Stars](https://img.shields.io/github/stars/riturajps-india/Auto-Filter-Bot?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/riturajps-india/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/riturajps-india/Auto-Filter-Bot?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
+[![Forks](https://img.shields.io/github/forks/riturajps-india/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)  
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/riturajps-india)   
 [![Contributors](https://img.shields.io/github/contributors/riturajps-india/Auto-Filter-Bot?style=flat-square&color=green)](https://github.com/riturajps-india/Auto-Filter-Bot/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/riturajps-india/Auto-Filter-Bot/blob/main/LICENSE)

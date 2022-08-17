@@ -18,7 +18,7 @@ AUTH_CHANNEL = None
 
 # MongoDB information
 DATABASE_URI = "mongodb+srv://riturajps:<password>@riturajps.omoivzo.mongodb.net/?retryWrites=true&w=majority"
-DATABASE_NAME = 'Piratedcity'
+DATABASE_NAME = 'autofilterbot'
 COLLECTION_NAME = 'Piratedcity_filterbot'  # If you are using the same database, then use different collection name for each bot
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/" alt="Eva Maria Logo">
+  <img src="assets/filter_bot.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
   <b>Auto-Filter-Bot</b>

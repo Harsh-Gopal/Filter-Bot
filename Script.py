@@ -11,8 +11,9 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.0 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Auto-Filter-Bot is a Private project. 
-- Source - www.riturajps.eu.org
+- This Bot is a Private project. 
+- Source - <a href=https://riturajps.gumroad.com/l/advance-movie-store-bot>Buy Source Code</a>
+- Website - www.riturajps.eu.org
 
 <b>DEVS:</b>
 - <a href=https://t.me/riturajps>RituRajPS</a>"""

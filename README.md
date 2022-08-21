@@ -2,7 +2,7 @@
   <img src="assets/filter_bot.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>Auto-Filter-Bot</b>
+  <b>Database Auto Media Bot</b>
 </h1>
 
 

@@ -9,6 +9,9 @@ step2 - go to @streamerviewfilebot
 step3 - click on start to start the bot
 step4 - click on [search ] button
 step5 - just write the name of series/movie in the text field just after the bot username
+
+Eg : <code>@StreamerViewFileBot Thor</code>
+
 when you click on [search] button the movie/series will be shown at the top of the texting area, you can just click on any option to get it.
 
 for more help you can join our group, link is given in backup channel <a href=https://t.me/piratedcitypc>piratedcity</a>"""

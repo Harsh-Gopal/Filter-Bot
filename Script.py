@@ -2,16 +2,16 @@ class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
     HELP_TXT = """ʜᴇʏ {}
-<b>ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʜᴇʟᴘ ᴏɴ ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ</b>
+<b>here is the help on how to use me</b>
 
-ꜱᴛᴇᴘ1 - ᴊᴏɪɴ @ᴅɪᴄᴇ_ᴅᴇᴀʟ (ᴍᴜꜱᴛ ᴊᴏɪɴ)
-ꜱᴛᴇᴘ2 - ɢᴏ ᴛᴏ @StreamerViewFileBot
-ꜱᴛᴇᴘ3 - ᴄʟɪᴄᴋ ᴏɴ ꜱᴛᴀʀᴛ ᴛᴏ ꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ
-ꜱᴛᴇᴘ4 - ᴄʟɪᴄᴋ ᴏɴ [ꜱᴇᴀʀᴄʜ ] ʙᴜᴛᴛᴏɴ
-ꜱᴛᴇᴘ5 - ᴊᴜꜱᴛ ᴡʀɪᴛᴇ ᴛʜᴇ ɴᴀᴍᴇ ᴏꜰ ꜱᴇʀɪᴇꜱ/ᴍᴏᴠɪᴇ ɪɴ ᴛʜᴇ ᴛᴇxᴛ ꜰɪᴇʟᴅ ᴊᴜꜱᴛ ᴀꜰᴛᴇʀ ᴛʜᴇ ʙᴏᴛ ᴜꜱᴇʀɴᴀᴍᴇ
-ᴡʜᴇɴ ʏᴏᴜ ᴄʟɪᴄᴋ ᴏɴ [ꜱᴇᴀʀᴄʜ] ʙᴜᴛᴛᴏɴ ᴛʜᴇ ᴍᴏᴠɪᴇ/ꜱᴇʀɪᴇꜱ ᴡɪʟʟ ʙᴇ ꜱʜᴏᴡɴ ᴀᴛ ᴛʜᴇ ᴛᴏᴘ ᴏꜰ ᴛʜᴇ ᴛᴇxᴛɪɴɢ ᴀʀᴇᴀ, ʏᴏᴜ ᴄᴀɴ ᴊᴜꜱᴛ ᴄʟɪᴄᴋ ᴏɴ ᴀɴʏ ᴏᴘᴛɪᴏɴ ᴛᴏ ɢᴇᴛ ɪᴛ.
+step1 - join @dice_deal (must join)
+step2 - go to @streamerviewfilebot
+step3 - click on start to start the bot
+step4 - click on [search ] button
+step5 - just write the name of series/movie in the text field just after the bot username
+when you click on [search] button the movie/series will be shown at the top of the texting area, you can just click on any option to get it.
 
-ꜰᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ ʏᴏᴜ ᴄᴀɴ ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ, ʟɪɴᴋ ɪꜱ ɢɪᴠᴇɴ ɪɴ ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ <a href=https://t.me/piratedcitypc>PiraTedCity</a>"""
+for more help you can join our group, link is given in backup channel <a href=https://t.me/piratedcitypc>piratedcity</a>"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/piratedcity>Pirated City</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
